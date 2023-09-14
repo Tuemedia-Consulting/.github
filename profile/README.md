@@ -2,7 +2,7 @@
 
 🚀 Specializing in Web Development with a Passion for Vue/NuxtJS 🌟
 
-👨‍💼 Founded by **Frederik Reiff** (@freiffde) 🌐
+👨‍💼 Founded by **Frederik Reiff** [https://github.com/freiffde](https://github.com/freiffde) 🌐
 
 🌐 At Tuemedia Consulting, we're dedicated to crafting exceptional web experiences using the power of Vue.js and Nuxt.js.
 
